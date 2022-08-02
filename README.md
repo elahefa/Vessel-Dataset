@@ -1,5 +1,5 @@
 ## Vessel-Dataset
-### By ELahe
+### By Elahe
 This document explores a .csv file which is a vessel dataset of a fleet joined with the vessel operation mode at the time of data generation. It contains the following fields:
 *	name: Vessel name
 *	longitude_deg: Instantaneous longitude in degrees 
